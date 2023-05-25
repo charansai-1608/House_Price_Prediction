@@ -1,1 +1,6 @@
 # House_Price_Prediction
+
+Real estate price prediction plays a vital role in assisting buyers, sellers, and investors in making informed decisions. In this project, we aim to develop an accurate and robust model for predicting real estate prices by employing various techniques, including feature engineering, dimensionality reduction, outlier removal, and model selection using grid search CV. To select the best model for real estate price prediction, we employ grid search CV, which systematically explores different combinations of hyperparameters for multiple models.
+We consider logistic regression, lasso regression, and decision trees as potential models for this task. The grid search CV technique allows us to evaluate each model's performance using appropriate evaluation metrics, such as score and best parameters, and select the one with the best overall performance. By integrating these techniques, our project aims to develop a robust and accurate real estate price prediction model. The final model will provide valuable insights to buyers, sellers, and investors in the real estate market, aiding them in making informed decisions and optimizing their investment strategies.
+
+Dataset: https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
